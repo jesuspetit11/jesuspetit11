@@ -1,4 +1,4 @@
-## Hi, my name is Jesús Petit 🖖
+## Hi, my name is Jesús Petit 👋
 
 A passionate self-taught programmer, currently immersed in my Computer Science studies at the University of Carabobo. Since my early years, I have felt a deep connection with the world of video games and the wonder of the internet. Curiosity has always driven me to wonder what is hidden behind each web page and how that video game that captures my attention works.
 
