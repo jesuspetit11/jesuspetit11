@@ -22,5 +22,6 @@ My academic career includes obtaining a degree in Modern Languages ​​with a 
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&labelColor=black)
 
 ## Let's stay in touch!
+[![Static Badge](https://img.shields.io/badge/Outlook-%230078D4?style=for-the-badge&logo=Microsoft&labelColor=black)](mailto:jesuspetit11@hotmail.com)
 [![Static Badge](https://img.shields.io/badge/Twitter-%23181717?style=for-the-badge&logo=X&labelColor=black&link=https%3A%2F%2Ftwitter.com%2Fpetitjesus1110)](https://twitter.com/petitjesus1110)
 [![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=Linkedin&labelColor=black)](https://www.linkedin.com/in/jesuspetitcontreras/)
